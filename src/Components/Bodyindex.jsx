@@ -11,13 +11,13 @@ import perro1 from '../Utils/images/index/perro1.png'
     <div>
            <section className="container1">
                 <div className="container">
-                    <div class="carousel">
-                      <div class="carousel__face"></div>
-                      <div class="carousel__face"></div>
-                      <div class="carousel__face"></div>
-                      <div class="carousel__face"></div>
-                      <div class="carousel__face"></div>
-                      <div class="carousel__face"></div>
+                    <div className="carousel">
+                      <div className="carousel__face"></div>
+                      <div className="carousel__face"></div>
+                      <div className="carousel__face"></div>
+                      <div className="carousel__face"></div>
+                      <div className="carousel__face"></div>
+                      <div className="carousel__face"></div>
                     </div>
                   </div>
             </section>
@@ -26,7 +26,7 @@ import perro1 from '../Utils/images/index/perro1.png'
                 <div className="img_Adop">
                     <img src={animal} alt="imagenes"/>
                 </div>
-                <div class="letra_Adop">
+                <div className="letra_Adop">
                     <h1>¿Por qué adoptar?</h1>
                     <br/>
                     <br/>
@@ -62,7 +62,7 @@ import perro1 from '../Utils/images/index/perro1.png'
                         <img src={tes} alt="img animal"/>
                         <img src={tes} alt="img animal"/>
                     </div>
-                    <div class="nom_tes">
+                    <div className="nom_tes">
                         <h2>Laika</h2>
                         <h2>Kuzco</h2>
                         <h2>Fiona</h2>
