@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ProyectoReact/static/css/main.8badd1d8.chunk.css",
+    "main.css": "/ProyectoReact/static/css/main.8fc6b436.chunk.css",
     "main.js": "/ProyectoReact/static/js/main.d2f1b5d4.chunk.js",
     "main.js.map": "/ProyectoReact/static/js/main.d2f1b5d4.chunk.js.map",
     "runtime-main.js": "/ProyectoReact/static/js/runtime-main.0c7b0cf7.js",
@@ -10,7 +10,7 @@
     "static/js/2.7040f1f9.chunk.js.map": "/ProyectoReact/static/js/2.7040f1f9.chunk.js.map",
     "index.html": "/ProyectoReact/index.html",
     "static/css/2.4be38407.chunk.css.map": "/ProyectoReact/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.8badd1d8.chunk.css.map": "/ProyectoReact/static/css/main.8badd1d8.chunk.css.map",
+    "static/css/main.8fc6b436.chunk.css.map": "/ProyectoReact/static/css/main.8fc6b436.chunk.css.map",
     "static/js/2.7040f1f9.chunk.js.LICENSE.txt": "/ProyectoReact/static/js/2.7040f1f9.chunk.js.LICENSE.txt",
     "static/media/adopciones.css": "/ProyectoReact/static/media/background-adop2.0dfdff1e.png",
     "static/media/Fundadora.1a3497d8.jpg": "/ProyectoReact/static/media/Fundadora.1a3497d8.jpg",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.0c7b0cf7.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.7040f1f9.chunk.js",
-    "static/css/main.8badd1d8.chunk.css",
+    "static/css/main.8fc6b436.chunk.css",
     "static/js/main.d2f1b5d4.chunk.js"
   ]
 }
