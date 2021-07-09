@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ProyectoReact/static/css/main.8badd1d8.chunk.css",
+    "main.js": "/ProyectoReact/static/js/main.79285db1.chunk.js",
+    "main.js.map": "/ProyectoReact/static/js/main.79285db1.chunk.js.map",
+    "runtime-main.js": "/ProyectoReact/static/js/runtime-main.0c7b0cf7.js",
+    "runtime-main.js.map": "/ProyectoReact/static/js/runtime-main.0c7b0cf7.js.map",
+    "static/css/2.4be38407.chunk.css": "/ProyectoReact/static/css/2.4be38407.chunk.css",
+    "static/js/2.7040f1f9.chunk.js": "/ProyectoReact/static/js/2.7040f1f9.chunk.js",
+    "static/js/2.7040f1f9.chunk.js.map": "/ProyectoReact/static/js/2.7040f1f9.chunk.js.map",
+    "index.html": "/ProyectoReact/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/ProyectoReact/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.8badd1d8.chunk.css.map": "/ProyectoReact/static/css/main.8badd1d8.chunk.css.map",
+    "static/js/2.7040f1f9.chunk.js.LICENSE.txt": "/ProyectoReact/static/js/2.7040f1f9.chunk.js.LICENSE.txt",
+    "static/media/adopciones.css": "/ProyectoReact/static/media/background-adop2.0dfdff1e.png",
+    "static/media/Fundadora.1a3497d8.jpg": "/ProyectoReact/static/media/Fundadora.1a3497d8.jpg",
+    "static/media/Hueso.bed25f41.png": "/ProyectoReact/static/media/Hueso.bed25f41.png",
+    "static/media/Logo awicha.9c305010.png": "/ProyectoReact/static/media/Logo awicha.9c305010.png",
+    "static/media/Luther.2c98b5e3.png": "/ProyectoReact/static/media/Luther.2c98b5e3.png",
+    "static/media/Negra 3.5fd1d9c4.png": "/ProyectoReact/static/media/Negra 3.5fd1d9c4.png",
+    "static/media/Nieve 4.c825df0e.png": "/ProyectoReact/static/media/Nieve 4.c825df0e.png",
+    "static/media/animales.d16c93b7.png": "/ProyectoReact/static/media/animales.d16c93b7.png",
+    "static/media/awi.665c0ebe.png": "/ProyectoReact/static/media/awi.665c0ebe.png",
+    "static/media/index.css": "/ProyectoReact/static/media/huellas.a2056a80.jpg",
+    "static/media/footer.css": "/ProyectoReact/static/media/backgroundfooter.ec7c97d6.png",
+    "static/media/do_tes.23270771.jpg": "/ProyectoReact/static/media/do_tes.23270771.jpg",
+    "static/media/gato.08cf5888.png": "/ProyectoReact/static/media/gato.08cf5888.png",
+    "static/media/menu.css": "/ProyectoReact/static/media/header.875d1781.PNG",
+    "static/media/hermanas-2.c8f858df.png": "/ProyectoReact/static/media/hermanas-2.c8f858df.png",
+    "static/media/hermanas.6387c7a5.png": "/ProyectoReact/static/media/hermanas.6387c7a5.png",
+    "static/media/perro1.a52a21c7.png": "/ProyectoReact/static/media/perro1.a52a21c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c7b0cf7.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.7040f1f9.chunk.js",
+    "static/css/main.8badd1d8.chunk.css",
+    "static/js/main.79285db1.chunk.js"
+  ]
+}
